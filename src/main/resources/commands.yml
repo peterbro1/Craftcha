@@ -1,0 +1,7 @@
+pmine:
+  aliases:
+    - plotmine
+    - pmine
+    - pmine reset
+  max: 3
+  timeframe: 10

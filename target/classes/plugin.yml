@@ -1,0 +1,8 @@
+name: Craftcha
+main: me.gmx.craftcha.Craftcha
+version: 1.0.2
+depend: []
+author: GMX
+commands:
+  craftcha:
+    aliases: [craftcha]

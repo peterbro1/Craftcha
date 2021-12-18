@@ -1,0 +1,8 @@
+name: ${name}
+main: me.gmx.craftcha.Craftcha
+version: ${project.version}
+depend: []
+author: ${author}
+commands:
+  craftcha:
+    aliases: [craftcha]
